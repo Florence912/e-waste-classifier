@@ -1,0 +1,88 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "3ede353b-75c5-41c3-b3b4-b0e2e87c7dbd",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "#e-waste-classifier\n",
+    "#  dataset\n",
+    "#      train\n",
+    "#         e-waste\n",
+    "#           C:\\modified-dataset\n",
+    "#             C:\\modified-dataset\\test\\Battery\n",
+    "#             C:\\modified-dataset\\test\\Keyboard\n",
+    "#             C:\\modified-dataset\\test\\Microwave\n",
+    "#             C:\\modified-dataset\\test\\mobile\n",
+    "#             C:\\modified-dataset\\test\\mouse\n",
+    "#             C:\\modified-dataset\\test\\pcb\n",
+    "#             C:\\modified-dataset\\test\\player\n",
+    "#             C:\\modified-dataset\\test\\printer\n",
+    "#             C:\\modified-dataset\\test\\television\n",
+    "#             C:\\modified-dataset\\test\\washing machine\n",
+    "#         non e- waste\n",
+    "#      val\n",
+    "#        e-waste\n",
+    "#          C:\\\n",
+    "#             C:\\modified-dataset\\test\\Battery\n",
+    "#             C:\\modified-dataset\\test\\Keyboard\n",
+    "#             C:\\modified-dataset\\test\\Microwave\n",
+    "#             C:\\modified-dataset\\test\\mobile\n",
+    "#             C:\\modified-dataset\\test\\mouse\n",
+    "#             C:\\modified-dataset\\test\\pcb\n",
+    "#             C:\\modified-dataset\\test\\player\n",
+    "#             C:\\modified-dataset\\test\\printer\n",
+    "#             C:\\modified-dataset\\test\\television\n",
+    "#             C:\\modified-dataset\\test\\washing machine            \n",
+    "#        non e-waste\n",
+    "#      test\n",
+    "#         e-waste\n",
+    "#           C:\\\n",
+    "#             C:\\modified-dataset\\test\\Battery\n",
+    "#             C:\\modified-dataset\\test\\Keyboard\n",
+    "#             C:\\modified-dataset\\test\\Microwave\n",
+    "#             C:\\modified-dataset\\test\\mobile\n",
+    "#             C:\\modified-dataset\\test\\mouse\n",
+    "#             C:\\modified-dataset\\test\\pcb\n",
+    "#             C:\\modified-dataset\\test\\player\n",
+    "#             C:\\modified-dataset\\test\\printer\n",
+    "#             C:\\modified-dataset\\test\\television\n",
+    "#             C:\\modified-dataset\\test\\washing machine            \n",
+    "#        non e-waste\n",
+    "#   e-waste classifier.ipynb\n",
+    "#  README.md"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "d1550657-20d1-4da6-9565-971c43af4cad",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python [conda env:base] *",
+   "language": "python",
+   "name": "conda-base-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.12.7"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
